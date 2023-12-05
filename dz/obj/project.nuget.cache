@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c9WUC0MbhJ9/HlJSCtr2lSgWF0MvomhNPzQak02LMFrUD0UnjWvkPAv+5crUewa1/HdglKB6XkYguxGF33vzlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Ucheba\\proga5sem\\paradigm-3sem\\dz\\dz.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Volodya\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
