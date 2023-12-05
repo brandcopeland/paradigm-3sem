@@ -1,0 +1,80 @@
+[33mcommit 0e6a1215ba57ce9ea71d240edc2a08be6be8e293[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Volodya <gtapsplus1@yandex.kz>
+Date:   Mon Nov 20 21:13:31 2023 +0300
+
+    Remove bot_token.py from Git tracking
+
+[33mcommit c350bf31e0415343019e55c1e5702bedd71fc6a4[m
+Author: Volodya <gtapsplus1@yandex.kz>
+Date:   Mon Nov 20 21:12:27 2023 +0300
+
+    lab5nd6 добавлена
+
+[33mcommit f63746d334ee27300c5f4cf6d0fde4512c244c2a[m
+Author: Volodya <gtapsplus1@yandex.kz>
+Date:   Mon Nov 20 21:10:26 2023 +0300
+
+    lab5nd6 добавлена
+
+[33mcommit 0d612bb3a3cf43b4335c86aafd46840560a76415[m
+Author: Volodya <gtapsplus1@yandex.kz>
+Date:   Mon Nov 20 13:02:56 2023 +0300
+
+    lab2 добавлена
+
+[33mcommit f4fd18e54a2f131d84ea5e127aa74d87077676ea[m
+Merge: e736055 3d04ed4
+Author: brand <gtapsplus1@yandex.kz>
+Date:   Sat Oct 28 23:14:52 2023 +0300
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit e73605562349059fc2ed422cb5a5389629327b5c[m
+Author: brand <gtapsplus1@yandex.kz>
+Date:   Sat Oct 28 23:14:35 2023 +0300
+
+    РК1 v1.2
+
+[33mcommit 3d04ed4cda060e79f4edb44ccbd1a0286c5c1e80[m
+Author: Nikita Fen <92219897+brandcopeland@users.noreply.github.com>
+Date:   Sat Oct 28 23:10:42 2023 +0300
+
+    Update README.md
+
+[33mcommit e8b55b9279349efdf2d016bdf84b96c95871eda6[m
+Author: brand <gtapsplus1@yandex.kz>
+Date:   Sat Oct 28 23:10:04 2023 +0300
+
+    РК1 v1.1
+
+[33mcommit 5aaa255104aac4121be366279bedbfb0dcab02fe[m
+Author: brand <gtapsplus1@yandex.kz>
+Date:   Sat Oct 28 20:39:57 2023 +0300
+
+    РК1 v1.0
+
+[33mcommit 55f0f5650b274b3f5dbdb0392f1b1307c4365279[m
+Author: brand <gtapsplus1@yandex.kz>
+Date:   Sat Oct 28 20:39:36 2023 +0300
+
+    РК1 v1.0
+
+[33mcommit 200bce6b52842101a09768cb5c2c5f66c725a06c[m
+Author: Nikita Fen Timurovich <92219897+brandcopeland@users.noreply.github.com>
+Date:   Fri Oct 13 12:12:55 2023 +0300
+
+    Update README.md
+
+[33mcommit 6a16b8f084cbba9b5547c5b51a74088e3fdcd18d[m
+Author: Nikita Fen Timurovich <92219897+brandcopeland@users.noreply.github.com>
+Date:   Fri Oct 13 12:12:08 2023 +0300
+
+    Добавлен файл задания и отчет
+    
+    Добавлена первая версия программы по первой лабораторной работе и отчет к ней
+
+[33mcommit a2b6eaae62d07ee67e2fa1550eaff831628a9234[m
+Author: Nikita Fen Timurovich <92219897+brandcopeland@users.noreply.github.com>
+Date:   Fri Oct 13 12:10:05 2023 +0300
+
+    Initial commit
